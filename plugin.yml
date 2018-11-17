@@ -1,0 +1,14 @@
+name: GetPing
+main: NashanPlays\GetPing\GetPing
+author: NashanPlaysYT
+version: 1.1.0
+api: 
+- 3.4.0
+- 3.3.0
+- 3.2.0
+- 3.1.0
+
+commands:
+    ping:
+        usage: /ping
+        description: Averigua a cuanto de ping vas!
